@@ -1,3 +1,3 @@
 ### I'm padawan Malware|Hunting|EXP
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnk3r&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=johnk3r)](https://git.io/streak-stats)
